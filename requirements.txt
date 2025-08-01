@@ -11,5 +11,5 @@ urllib3
 plotly
 twilio
 flask
-threading
 # python -m tests.test_api_handler pour executer des fonctions , modules depuis la racine .
+
