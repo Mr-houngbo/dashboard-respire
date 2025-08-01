@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+streamlit-option-menu
+streamlit-authenticator
+bcrypt
+pyyaml
+bcrypt
+requests
+urllib3
+plotly
+twilio
+flask
+threading
+# python -m tests.test_api_handler pour executer des fonctions , modules depuis la racine .
