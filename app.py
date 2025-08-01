@@ -137,7 +137,7 @@ with st.sidebar:
         styles={
             "container": {
                 "padding": "10px",
-                "background-color": "transparent",
+                "background-color": "inherit",
                 "border-radius": "20px"
             },
             "icon": {
@@ -356,5 +356,6 @@ elif selected_main == "Autorité":
 
 
 #=========================== SECTION TOUT EN BAS RESERVEE AU FOOTER =================================
+
 
 show_footer()
