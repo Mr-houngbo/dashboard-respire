@@ -58,7 +58,7 @@ st.markdown("""
 
 /* Style pour le menu option_menu */
 .nav-link {
-    background-color: rgba(255, 255, 255, 0.7) !important;
+    background-color: white !important;
     color: #2e7d32 !important;
     border-radius: 20px !important;
     margin: 8px 5px !important;
@@ -359,3 +359,4 @@ elif selected_main == "Autorité":
 
 
 show_footer()
+
